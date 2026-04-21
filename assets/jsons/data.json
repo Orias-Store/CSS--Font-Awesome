@@ -1,0 +1,57 @@
+[
+    {
+        "version": "6.6.0",
+        "title": "Version 6.6.0",
+        "isNew": true,
+        "description": "Added new icons",
+        "descIcon": "fa-solid fa-wrench",
+        "resources": [
+            "fa-solid fa-diamonds-4", "fa-solid fa-globe-wifi", "fa-solid fa-hydra",
+            "fa-solid fa-user-beard-bolt", "fa-solid fa-lightbulb-message", "fa-solid fa-thumbtack",
+            "fa-solid fa-thumbtack-slash", "fa-solid fa-squid", "fa-solid fa-octopus",
+            "fa-solid fa-table-cells-unlock", "fa-solid fa-table-cells-column-unlock", "fa-solid fa-table-cells-row-unlock",
+            "fa-brands fa-flutter", "fa-brands fa-dart-lang", "fa-brands fa-soundcloud",
+            "fa-solid fa-square-chevron-down", "fa-solid fa-file-slash", "fa-solid fa-globe-stand",
+            "fa-solid fa-album-collection"
+        ]
+    },
+    {
+        "version": "6.5.2",
+        "title": "Version 6.5.2",
+        "isNew": false,
+        "description": "Optimized system",
+        "descIcon": "fa-solid fa-wand-magic-sparkles",
+        "resources": [
+            "fa-solid fa-web-awesome", "fa-solid fa-font-awesome", "fa-brands fa-bluesky",
+            "fa-brands fa-jxl", "fa-solid fa-caduceus", "fa-solid fa-circle-gf",
+            "fa-solid fa-reflect-both", "fa-solid fa-circle-wifi", "fa-solid fa-circle-wifi-circle-wifi",
+            "fa-solid fa-file-cad", "fa-solid fa-ant", "fa-solid fa-bottle-baby",
+            "fa-solid fa-table-cells-lock", "fa-solid fa-table-cells-column-lock", "fa-solid fa-table-cells-row-lock",
+            "fa-brands fa-kickstarter", "fa-brands fa-upwork", "fa-solid fa-calendar-lines",
+            "fa-solid fa-fax", "fa-solid fa-shredder", "fa-solid fa-location-check",
+            "fa-solid fa-face-kiss-beam"
+        ]
+    },
+    {
+        "version": "6.5.1",
+        "title": "Version 6.5.1",
+        "isNew": false,
+        "description": "Added new icons",
+        "descIcon": "fa-solid fa-plus",
+        "resources": [
+            "fa-brands fa-pixiv", "fa-brands fa-mintbit", "fa-brands fa-google-scholar",
+            "fa-brands fa-signal-messenger", "fa-brands fa-upwork", "fa-brands fa-webflow",
+            "fa-solid fa-t-rex", "fa-solid fa-truck-fire", "fa-solid fa-excavator",
+            "fa-solid fa-bulldozer", "fa-solid fa-truck-ladder", "fa-solid fa-landmark-magnifying-glass",
+            "fa-solid fa-tent-double-peak", "fa-solid fa-truck-utensils", "fa-solid fa-hammer-brush",
+            "fa-solid fa-sign-hanging", "fa-solid fa-sign-post", "fa-solid fa-building-memo",
+            "fa-solid fa-building-magnifying-glass", "fa-solid fa-hand-holding-circle-dollar",
+            "fa-solid fa-spinner-scale", "fa-solid fa-bell-ring", "fa-solid fa-folder-check",
+            "fa-solid fa-cannon", "fa-solid fa-court-sport", "fa-solid fa-wave",
+            "fa-solid fa-magnifying-glass-waveform", "fa-solid fa-magnifying-glass-play", "fa-solid fa-magnifying-glass-music",
+            "fa-solid fa-reflect-horizontal", "fa-solid fa-reflect-vertical", "fa-solid fa-tickets",
+            "fa-solid fa-ticket-perforated", "fa-solid fa-tickets-perforated", "fa-brands fa-facebook",
+            "fa-brands fa-patreon", "fa-brands fa-ubuntu", "fa-brands fa-suse"
+        ]
+    }
+]
